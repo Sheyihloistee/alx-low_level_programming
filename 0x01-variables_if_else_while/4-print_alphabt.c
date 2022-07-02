@@ -3,8 +3,8 @@
 /**
  *main - print all letters in lowercase except e and q
  *followed by a new line
- *Return 0 if (successful)
- */
+ *Return: 0 if (successful)
+*/
 
 int main(void)
 {
@@ -20,4 +20,4 @@ ch++;
 }
 putchar('\n');
 return (0);
-} 
+}
