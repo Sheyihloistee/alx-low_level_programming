@@ -1,8 +1,8 @@
-#include <stdio.h>
+#include <stdlib.h>
 
 /**
  *main - print all letters in lowercase except e and q
- *followed by a new line*
+ *followed by a new line
  *Return: 0 if (successful)
  */
 
@@ -20,4 +20,4 @@ ch++;
 }
 putchar('\n');
 return (0);
-}
+} 
