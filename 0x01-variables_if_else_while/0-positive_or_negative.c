@@ -3,8 +3,9 @@
 #include <stdio.h>
 
 /**
- * main - assigns a random number to the value of n everytime
- * it executes and prints it
+ * main - assigns a random number to the value of n each time it executes 
+ * and prints it
+ *
  * Return: 0 if (successful)
 */
 
