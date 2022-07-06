@@ -44,7 +44,7 @@ if (b < n)
 {
 _putchar(',');
 _putchar(' ');
-}						
+}
 }
 _putchar('\n');
 a++;
