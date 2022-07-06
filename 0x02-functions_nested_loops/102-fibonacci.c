@@ -2,7 +2,7 @@
 
 /**
  * main - main block
- * Description: prints even numbers less than 4,000,000
+ * Description: prints sum of all multiples of 3 0r 5 below 1024
  * followed by a new line
  * Return: 0
  */
