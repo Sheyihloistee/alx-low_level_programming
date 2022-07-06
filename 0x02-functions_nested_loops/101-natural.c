@@ -3,10 +3,10 @@
 
 /**
  * main - main block
- * Description: prints sum of all multiples of 3 or 5 below 1024
+ * Description: prints the sum of all multiples of 3 or 5 below 1024
  * followed by a new line
  * Return: 0
-*/
+ */
 
 int main(void)
 {
