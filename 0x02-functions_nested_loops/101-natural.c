@@ -9,12 +9,12 @@
 
 int main(void)
 {
-int c = 0; sum = 0;
+int i = 0; sum = 0;
 
-for (c = 0; i < 1024; c++)
+for (i = 0; i < 1024; i++)
 {
-if ((c % 3 == 0 || (c % 5) == 0)
-sum += c;
+if ((i % 3 == 0 || (i % 5) == 0)
+sum += i;
 }
 
 printf("%d\n", sum);
