@@ -1,4 +1,3 @@
-
 #include "main.h"
 
 /**
@@ -52,4 +51,3 @@ _putchar('\n');
 a++;
 }
 }
-
