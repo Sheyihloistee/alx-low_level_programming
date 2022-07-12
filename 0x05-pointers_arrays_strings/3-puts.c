@@ -1,4 +1,5 @@
 #include "holberton.h"
+
 /**
  * _puts - print a string
  * @str: A pointer to an int that will be changed
