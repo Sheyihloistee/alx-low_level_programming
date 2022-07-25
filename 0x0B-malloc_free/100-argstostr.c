@@ -48,4 +48,5 @@ for (c = i = 0; i < ac; i++)
 	}
 	aout[ia] = '\0';
 
-	return
+	return (aout);
+}
