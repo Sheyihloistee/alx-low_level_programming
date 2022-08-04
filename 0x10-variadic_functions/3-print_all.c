@@ -10,8 +10,8 @@ void print_all(const char * const format, ...);
 
 /**
  * print_char - Prints a char.
- * @arg: A list of arguments pointing to 
- * the character to be printed.
+ * @arg: A list of arguments pointing to
+ *       the character to be printed.
  */
 void print_char(va_list arg)
 {
